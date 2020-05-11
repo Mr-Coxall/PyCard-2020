@@ -1,6 +1,6 @@
 # PyCard-2020
 
-![PyCard_Image](PyCard-2020.png)
+![PyCard_Image](PyCard-2020-v2.png)
 
 A CircuitPython board the size of a credit card.
 It has 12 NeoPixels that are arranged in a circle, like a clock.
